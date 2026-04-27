@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+#### I am a psychology graduate pivoting to data analytics.
+#### I am currently working on my portfolio projects.
+#### Please reach me through email or LinkedIn
+
+## Tools
+#### - SQL, Excel, Tableau, Python, R, Power BI
 <!--
 **IbtisamIshak/IbtisamIshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
