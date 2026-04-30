@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-#### I am a psychology graduate pivoting to data analytics.
-#### I am currently working on my portfolio projects.
-#### Please reach me through email or LinkedIn
-
-## Tools
-#### - SQL, Excel, Tableau, Python, R, Power BI
+I am a psychology graduate pivoting from the special needs field into data analytics. Has successfully completed the PeopleCert Data Science certifications and the Google Data Analytics certificate. Gained proficiency in SQL, Tableau, and R. Has experience in interpreting data, communicating findings, and supporting child and adolescent development in educational and clinical settings. Seeks to apply internship/trainee programs in data-focused roles and assist in making data-driven decisions.
 <!--
 **IbtisamIshak/IbtisamIshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
